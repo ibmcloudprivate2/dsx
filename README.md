@@ -15,6 +15,7 @@
 - ensure the **Available** for all deployment is 1
 
 **Deployment**
+
 | NAME	| DESIRED	| CURRENT	| UP TO DATE	| AVAILABLE	| AGE | 
 | -------------| -------------| -------------| -------------| -------------| ------------- |
 | dsx-ux-server	| 1	| 1	| 1	|1 | 50m |
