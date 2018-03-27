@@ -19,9 +19,9 @@
 | NAME	| DESIRED	| CURRENT	| UP TO DATE	| AVAILABLE	| AGE | 
 | -------------| -------------| -------------| -------------| -------------| ------------- |
 | dsx-ux-server	| 1	| 1	| 1	|1 | 50m |
-| notebook-server	| 1	1	1	1	50m |
-| rstudio-server	| 1	1	1	1	50m |
-| zeppelin-server	| 1	1	1	1	50m |
+| notebook-server	| 1	| 1	| 1	|1 | 50m |
+| rstudio-server	| 1	| 1	| 1	|1 | 50m |
+| zeppelin-server	| 1	| 1	| 1	|1 | 50m |
 
 3. To access the DSX Dashboad
 - under **Service** Section
