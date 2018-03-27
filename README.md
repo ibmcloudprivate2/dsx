@@ -1,5 +1,15 @@
 # dsx
 
+# Prepare
+1. clone this project
+```
+git clone https://github.com/ibmcloudprivate2/dsx.git
+```
+2. change folder 
+```
+cd dsx
+```
+
 ## walkthrough of demo
 
 1. deploy dsx from the IBM Cloud Private Catalog
@@ -28,12 +38,22 @@
 - click on **dsx-ux** to drill down the service details
 - click on the **Node Port** endpoint listed to acceess the DSX Dashboard
 
-4. From menu > My Notebooks > add notebooks > From URL
-- enter **Name** of your choice : *sample*
+4. From menu > My Notebooks > add notebooks > 
+a) From URL or
+- enter **Name** of your choice : *sample* 
 
 ```
 https://raw.githubusercontent.com/ibmcloudprivate2/dsx/master/sample.ipynb
 ```
+b) File > Open > Upload > sample.ipynb
+
+5. Upload sample data
+- File > Open > Upload > school_earnings.csv
+
+6. Run it, Cell > Run All
+- it will take a while to execute for each cell
+- cell with [`*`] means the cell is still being executed
+- cell with a number in [ ] means the execution of codes in cell is completed
 
 # Reference
 - [Jupyter Notebook Tutorial in Python](https://plot.ly/python/ipython-notebook-tutorial/)
