@@ -53,7 +53,7 @@ b) File > Open > Upload > sample.ipynb
 6. Run it, Cell > Run All
 - it will take a while to execute for each cell
 - cell with [`*`] means the cell is still being executed
-- cell with a number in [ ] means the execution of codes in cell is completed
+- cell with a number in [ 2 ] means the execution of codes in cell is completed
 
 # Reference
 - [Jupyter Notebook Tutorial in Python](https://plot.ly/python/ipython-notebook-tutorial/)
